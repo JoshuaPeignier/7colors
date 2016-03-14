@@ -1,0 +1,15 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {subsection}{\numberline {1.1}Rules}{2}
+\contentsline {paragraph}{Game Start}{2}
+\contentsline {paragraph}{Game Play}{2}
+\contentsline {subsection}{\numberline {1.2}Project}{2}
+\contentsline {section}{\numberline {2}Questions \& Answers}{2}
+\contentsline {subsection}{\numberline {2.1}Part 2}{2}
+\contentsline {subsection}{\numberline {2.2}Part 3}{4}
+\contentsline {subsection}{\numberline {2.3}Part 4}{5}
+\contentsline {subsection}{\numberline {2.4}Part 5}{5}
+\contentsline {subsection}{\numberline {2.5}Part 6}{6}
+\contentsline {subsection}{\numberline {2.6}Part 7}{6}
+\contentsline {section}{\numberline {3}Conclusions}{8}
+\contentsline {section}{\numberline {4}References}{9}
