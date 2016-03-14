@@ -10,7 +10,7 @@
 #include "auxiliary.h"
 #include "strategies.h"
 
-#define NB_SIMULATIONS 1200
+#define NB_SIMULATIONS 2000
 
 /** Program entry point */
 int main() 
